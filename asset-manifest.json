@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-vms/static/css/main.fa2d45ef.css",
+    "main.js": "/react-vms/static/js/main.b8f0555c.js",
+    "static/js/787.9cd4c428.chunk.js": "/react-vms/static/js/787.9cd4c428.chunk.js",
+    "static/media/qr-code.svg": "/react-vms/static/media/qr-code.579bcdae2f36a7fc10ec9d1bd45ba8e2.svg",
+    "static/media/admin-login.svg": "/react-vms/static/media/admin-login.70dcb12d770be2779cf96fc834de3a4a.svg",
+    "static/media/settings1.svg": "/react-vms/static/media/settings1.3177df42d2b78a9b693e5f9eabee7e76.svg",
+    "static/media/manage1.svg": "/react-vms/static/media/manage1.7436f327abc35315fe7c256fff0c11c6.svg",
+    "index.html": "/react-vms/index.html",
+    "static/media/person.svg": "/react-vms/static/media/person.e2ee1814d57b65599ba4cc2be2dce673.svg",
+    "static/media/approval1.svg": "/react-vms/static/media/approval1.790a9a1f0da09e818e82add6513857da.svg",
+    "static/media/logout.svg": "/react-vms/static/media/logout.254ae57a37423c72f2aaaeaf9340fb16.svg",
+    "static/media/checkin.svg": "/react-vms/static/media/checkin.ed33855d3490a09094a03ca96faa5e5a.svg",
+    "static/media/checkout2.svg": "/react-vms/static/media/checkout2.165a419f3026a0b8a5a218f58f7c0e58.svg",
+    "static/media/dash5.svg": "/react-vms/static/media/dash5.bff379a4b1fbc0736f14f0d6032d1628.svg",
+    "static/media/logo.svg": "/react-vms/static/media/logo.ec0ad5e6f890c45530ef24fd1f34e6f7.svg",
+    "static/media/report1.svg": "/react-vms/static/media/report1.193ba75b5528926ce59365214578a0ab.svg",
+    "static/media/menu40.svg": "/react-vms/static/media/menu40.0b505902cc2346abe805c1f90b5f360f.svg",
+    "static/media/menu_icon.svg": "/react-vms/static/media/menu_icon.113d59e2703636dfe157ec8ec962d598.svg",
+    "main.fa2d45ef.css.map": "/react-vms/static/css/main.fa2d45ef.css.map",
+    "main.b8f0555c.js.map": "/react-vms/static/js/main.b8f0555c.js.map",
+    "787.9cd4c428.chunk.js.map": "/react-vms/static/js/787.9cd4c428.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa2d45ef.css",
+    "static/js/main.b8f0555c.js"
+  ]
+}
